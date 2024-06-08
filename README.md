@@ -4,5 +4,6 @@
 
 ---
 
-> “A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.”
+> “I love deadlines. I love the whooshing noise they make as they go by.”
+> “One is never alone with a rubber duck.”
 > - Douglas Adams
